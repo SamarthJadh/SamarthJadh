@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samarth
-- 👀 I’m interested in Developement
+- 👀 I’m interested in AI & ML
 - 🌱 I’m currently pursing Bachelor in Inforamtion Technology
 - 📫 How to reach me samarthjadhav34@gmail.com
 
