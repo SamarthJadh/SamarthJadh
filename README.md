@@ -5,16 +5,12 @@
 - 👯 I’m looking to collaborate on [Garbage Detection System](https://github.com/SamarthJadh/Garbage-Detection-System)
 - 📫 How to reach me: **samarthjadhav34@gmail.com**
 
-<br>
-
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/samarth-jadhav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarth-jadhav" height="30" width="40" />
   </a>
 </p>
-
-<br>
 
 <h3 align="left">⚙️ My Skills:</h3>
 <p align="left">
@@ -32,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   
-  <br><br>
+  <br>
 
   <strong>Frameworks & Libraries:</strong>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
@@ -51,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
   </a>
  
-  <br><br>
+  <br>
 
   <strong>Web Development:</strong>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -70,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
   </a>
 
-  <br><br>
+  <br>
 
   <strong>Databases:</strong>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -81,8 +77,7 @@
   </a>
  
 
-  <br><br>
-
+  <br>
   <strong>Tools & Technologies:</strong>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
@@ -94,5 +89,3 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
   </a>
 </p>
-
-<br>
